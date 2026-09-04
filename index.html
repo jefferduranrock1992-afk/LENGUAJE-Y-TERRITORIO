@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Repositorio digital educativo para la comprensión, la interpretación y la producción textual en contextos rurales colombianos.">
+  <title>Lenguaje y territorio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#catalogo">Ir al catálogo</a>
+
+  <header class="site-header">
+    <a class="brand" href="#inicio" aria-label="Lenguaje y territorio, inicio">
+      <span class="brand-mark" aria-hidden="true">LT</span>
+      <span><strong>Lenguaje y territorio</strong><small>Repositorio educativo rural</small></span>
+    </a>
+    <button class="menu-button" type="button" aria-expanded="false" aria-controls="main-nav">Menú</button>
+    <nav id="main-nav" class="main-nav" aria-label="Navegación principal">
+      <a href="#catalogo">Recursos</a>
+      <a href="#categorias">Categorías</a>
+      <a href="#publicacion">Cómo publicar</a>
+      <a href="#evaluacion">Evaluación</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="inicio" class="intro">
+      <div>
+        <p class="eyebrow">Educación rural colombiana</p>
+        <h1>Recursos para leer, comprender y contar el territorio</h1>
+        <p>Este repositorio organiza materiales educativos relacionados con el campo, la agricultura, la literatura, el deporte y la vida comunitaria. Su propósito es fortalecer la comprensión, la interpretación y la producción textual.</p>
+      </div>
+      <aside class="intro-note" aria-label="Características del repositorio">
+        <strong>Acceso abierto</strong>
+        <span>Materiales consultables desde computador o celular.</span>
+        <strong>Enfoque territorial</strong>
+        <span>Contenidos cercanos a las experiencias rurales colombianas.</span>
+      </aside>
+    </section>
+
+    <section id="catalogo" class="catalog" aria-labelledby="catalog-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Explorar</p>
+          <h2 id="catalog-title">Catálogo de recursos</h2>
+        </div>
+        <p id="result-count" class="result-count" aria-live="polite"></p>
+      </div>
+
+      <form class="filters" id="filters" role="search">
+        <label class="search-field">
+          <span>Buscar por título, tema o palabra clave</span>
+          <input id="search-input" type="search" placeholder="Ejemplo: café, inferencias, verbos">
+        </label>
+        <label>
+          <span>Categoría</span>
+          <select id="category-filter">
+            <option value="">Todas las categorías</option>
+          </select>
+        </label>
+        <label>
+          <span>Tipo de recurso</span>
+          <select id="type-filter">
+            <option value="">Todos los tipos</option>
+          </select>
+        </label>
+        <button id="clear-filters" class="button secondary" type="button">Limpiar filtros</button>
+      </form>
+
+      <div id="resource-grid" class="resource-grid"></div>
+      <div id="empty-state" class="empty-state" hidden>
+        <h3>No encontramos recursos</h3>
+        <p>Prueba con otra palabra o elimina alguno de los filtros.</p>
+      </div>
+    </section>
+
+    <section id="categorias" class="categories" aria-labelledby="categories-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Organización</p>
+          <h2 id="categories-title">Categorías del repositorio</h2>
+        </div>
+      </div>
+      <div id="category-grid" class="category-grid"></div>
+    </section>
+
+    <section id="publicacion" class="publication" aria-labelledby="publication-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Participación</p>
+          <h2 id="publication-title">Ruta para publicar un recurso</h2>
+        </div>
+      </div>
+      <ol class="steps">
+        <li><span>1</span><div><strong>Proponer</strong><p>El docente presenta el recurso y explica su utilidad pedagógica.</p></div></li>
+        <li><span>2</span><div><strong>Describir</strong><p>Completa título, autoría, categoría, grado, formato, palabras clave y derechos de uso.</p></div></li>
+        <li><span>3</span><div><strong>Revisar</strong><p>El equipo verifica pertinencia, funcionamiento, accesibilidad y respeto por la autoría.</p></div></li>
+        <li><span>4</span><div><strong>Publicar</strong><p>El recurso aprobado se incorpora al catálogo para su consulta o descarga.</p></div></li>
+      </ol>
+
+      <div class="info-grid">
+        <article>
+          <h3>Roles de usuario</h3>
+          <dl>
+            <div><dt>Administrador</dt><dd>Organiza, revisa, publica y actualiza.</dd></div>
+            <div><dt>Docente colaborador</dt><dd>Propone recursos y completa sus datos.</dd></div>
+            <div><dt>Estudiante o visitante</dt><dd>Busca, consulta, descarga y evalúa.</dd></div>
+          </dl>
+        </article>
+        <article>
+          <h3>Metadatos de cada recurso</h3>
+          <p>Título, autoría, año, descripción, categoría, nivel, tipo, formato, palabras clave, condiciones de acceso, licencia o derechos y fecha de actualización.</p>
+        </article>
+        <article>
+          <h3>Preservación y acceso</h3>
+          <p>Los enlaces se revisan periódicamente. Los materiales propios conservan copia de respaldo y todos los recursos informan sus condiciones de uso.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="evaluacion" class="evaluation" aria-labelledby="evaluation-title">
+      <div>
+        <p class="eyebrow">Mejora continua</p>
+        <h2 id="evaluation-title">Evaluación de los recursos</h2>
+        <p>Los usuarios pueden valorar cada material según su claridad, utilidad pedagógica, funcionamiento y pertinencia para el contexto rural. Esta versión presenta el mecanismo como parte del prototipo.</p>
+      </div>
+      <div class="criteria" aria-label="Criterios de evaluación">
+        <span>Claridad</span><span>Pertinencia</span><span>Accesibilidad</span><span>Interactividad</span>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div><strong>Lenguaje y territorio</strong><p>Prototipo de repositorio digital educativo.</p></div>
+    <p>Los recursos enlazados conservan la autoría y las condiciones de uso indicadas por sus creadores.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
