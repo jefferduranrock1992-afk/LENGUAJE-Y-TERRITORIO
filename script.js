@@ -18,7 +18,7 @@ const resources = [
     format: "Recurso interactivo",
     access: "Acceso en línea",
     year: "2026",
-    author: "Equipo del proyecto",
+    author: "Pendiente de verificación",
     rights: "Consultar condiciones en el recurso",
     keywords: ["inferencias", "territorio", "lectura"],
     url: "https://view.genially.com/6a931d45c05b027aa63a6036"
@@ -32,7 +32,7 @@ const resources = [
     format: "Actividad interactiva",
     access: "Acceso en línea",
     year: "2026",
-    author: "Equipo del proyecto",
+    author: "Pendiente de verificación",
     rights: "Consultar condiciones en el recurso",
     keywords: ["verbos", "oraciones", "vida cotidiana"],
     url: "https://wordwall.net/es/resource/118092960?wwmethod=link"
