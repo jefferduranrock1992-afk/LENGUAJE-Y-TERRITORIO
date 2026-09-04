@@ -19,7 +19,7 @@ Este registro reúne los recursos visibles en el prototipo. Los enlaces externos
 | 10 | María | Jorge Isaacs (1837–1895) | 1870 | Novela; texto web, EPUB y PDF | Literatura y territorio | Obra original en dominio público; texto de Wikisource bajo CC BY-SA 4.0 | [Abrir recurso](https://es.wikisource.org/wiki/Mar%C3%ADa_%28Isaacs%29) |
 | 11 | En la diestra de Dios Padre | Tomás Carrasquilla (1858–1940) | 1897 | Cuento; texto web, EPUB y PDF | Literatura y territorio | Obra original en dominio público; texto de Wikisource bajo CC BY-SA 4.0 | [Abrir recurso](https://es.wikisource.org/wiki/En_la_diestra_de_Dios_Padre) |
 | 12 | La vorágine | José Eustasio Rivera (1888–1928) | 1924 | Novela; texto web | Literatura y territorio | Obra original en dominio público; consulta desde la Biblioteca Virtual Miguel de Cervantes | [Abrir recurso](https://www.cervantesvirtual.com/obra/la-voragine-989351/) |
-| 13 | Los maderos de San Juan | José Asunción Silva (1865–1896) | 1898 | Poema narrativo; texto web, EPUB y PDF | Literatura y territorio | Obra original en dominio público; texto de Wikisource bajo CC BY-SA 4.0 | [Abrir recurso](https://es.wikisource.org/wiki/Los_maderos_de_San_Juan) |
+| 13 | Los maderos de San Juan | José Asunción Silva (1865–1896) | 1892 | Poema narrativo; texto web, EPUB y PDF | Literatura y territorio | Obra original en dominio público; texto de Wikisource bajo CC BY-SA 4.0 | [Abrir recurso](https://es.wikisource.org/wiki/Los_maderos_de_San_Juan) |
 
 ## Nota sobre literatura de dominio público
 
