@@ -197,7 +197,7 @@ const resources = [
     level: "Grados 7.º a 9.º",
     format: "Texto web, EPUB y PDF",
     access: "Lectura y descarga",
-    year: "1898",
+    year: "1892",
     author: "José Asunción Silva (1865–1896)",
     rights: "Obra original en dominio público; texto de Wikisource bajo CC BY-SA 4.0",
     source: "Wikisource, biblioteca libre",
