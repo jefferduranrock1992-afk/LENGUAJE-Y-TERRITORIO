@@ -3,9 +3,8 @@ const categories = [
   { name: "Campo y agricultura", description: "Lecturas y actividades sobre café, caña, cultivos y saberes campesinos." },
   { name: "Deporte y comunidad", description: "Textos y experiencias deportivas como punto de partida para leer y escribir." },
   { name: "Comprensión e interpretación textual", description: "Recursos para fortalecer los niveles literal, inferencial y crítico." },
-  { name: "Producción textual", description: "Orientaciones y actividades para planear, escribir, revisar y publicar textos." },
-  { name: "Recursos audiovisuales", description: "Videos, audios y materiales interactivos con intención pedagógica." },
-  { name: "Producciones estudiantiles", description: "Creaciones que recuperan experiencias, memorias y conocimientos del territorio." }
+  { name: "Producción textual y creaciones estudiantiles", description: "Guías, plantillas, organizadores y producciones autorizadas para planear, escribir, revisar y publicar textos." },
+  { name: "Recursos audiovisuales", description: "Videos, audios y materiales interactivos con intención pedagógica." }
 ];
 
 const resources = [
@@ -27,7 +26,7 @@ const resources = [
   {
     title: "Los verbos en la vida cotidiana",
     description: "Actividad para reconocer y emplear verbos dentro de oraciones relacionadas con situaciones cotidianas y comunitarias.",
-    category: "Producción textual",
+    category: "Producción textual y creaciones estudiantiles",
     type: "Actividad interactiva",
     level: "Educación básica y flexible",
     format: "Wordwall",
@@ -428,6 +427,81 @@ const resources = [
     source: "Ministerio de Educación Nacional – YouTube",
     keywords: ["deportista", "docente", "Ibagué", "liderazgo femenino", "biografía"],
     url: "https://www.youtube.com/watch?v=WEHiPT0y4WA"
+  },
+  {
+    title: "El huerto escolar como recurso de enseñanza-aprendizaje",
+    description: "Guía interdisciplinaria con actividades sobre plantas, suelo, siembra, alimentación, ambiente y comunidad; permite leer instrucciones, registrar observaciones y redactar informes.",
+    category: "Campo y agricultura",
+    type: "Guía pedagógica",
+    level: "Educación básica",
+    format: "PDF",
+    access: "Descarga directa",
+    year: "2009",
+    author: "Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO)",
+    rights: "Consulta y descarga desde el portal oficial de la FAO",
+    source: "FAO",
+    keywords: ["huerto escolar", "suelo", "alimentación", "escritura", "comunidad"],
+    url: "https://www.fao.org/ag/humannutrition/21877-061e61334701c700e0f53684791ad06ed.pdf"
+  },
+  {
+    title: "Guía de compostaje para agricultores",
+    description: "Cartilla ilustrada que explica cómo transformar residuos orgánicos en compost, controlar temperatura y humedad y resolver problemas frecuentes del proceso.",
+    category: "Campo y agricultura",
+    type: "Guía práctica",
+    level: "Educación secundaria, media y comunidad",
+    format: "Libro digital en PDF",
+    access: "Consulta y descarga",
+    year: "2024",
+    author: "Pardo Díaz, Suárez Estrada, Camelo Rusinque, Rojas Tapias y Estrada Bonilla",
+    rights: "Consulta desde la ficha institucional; se conserva la fuente y la autoría",
+    source: "Editorial AGROSAVIA",
+    keywords: ["compostaje", "residuos orgánicos", "suelo", "agricultura sostenible"],
+    url: "https://editorial.agrosavia.co/index.php/publicaciones/catalog/book/441"
+  },
+  {
+    title: "Agricultura climáticamente inteligente en el cultivo de caña para panela",
+    description: "Manual sobre prácticas sostenibles para conservar suelo y agua, aprovechar biomasa residual y responder a la variabilidad climática en la producción panelera.",
+    category: "Campo y agricultura",
+    type: "Manual técnico",
+    level: "Grados 8.º a 11.º y comunidad",
+    format: "Libro digital",
+    access: "Consulta en línea",
+    year: "2023",
+    author: "Corporación Colombiana de Investigación Agropecuaria (AGROSAVIA)",
+    rights: "Contenido de libre acceso desde la ficha institucional; no se redistribuye una copia",
+    source: "Editorial AGROSAVIA",
+    keywords: ["caña panelera", "cambio climático", "suelo", "agua", "sostenibilidad"],
+    url: "https://editorial.agrosavia.co/index.php/publicaciones/catalog/book/385"
+  },
+  {
+    title: "Interpretación de resultados de análisis de suelo para cafetales",
+    description: "Avance técnico que orienta la lectura de resultados de laboratorio y la toma de decisiones para una nutrición adecuada del cultivo del café.",
+    category: "Campo y agricultura",
+    type: "Avance técnico",
+    level: "Grados 9.º a 11.º y comunidad cafetera",
+    format: "Texto web, PDF y video",
+    access: "Consulta y descarga",
+    year: "2018",
+    author: "Siavosh Sadeghian",
+    rights: "Consulta desde el portal oficial de Cenicafé",
+    source: "Cenicafé",
+    keywords: ["café", "análisis de suelo", "nutrición", "interpretación de datos"],
+    url: "https://publicaciones.cenicafe.org/index.php/avances_tecnicos/issue/view/84"
+  },
+  {
+    title: "Guía de registro para costos de producción agrícola",
+    description: "Material práctico para registrar insumos, labores, jornales, costos e ingresos; favorece la interpretación de tablas y la elaboración de informes sobre una unidad productiva.",
+    category: "Campo y agricultura",
+    type: "Guía de registro",
+    level: "Grados 9.º a 11.º, jóvenes rurales y comunidad",
+    format: "Libro digital en PDF",
+    access: "Consulta y descarga",
+    year: "2020",
+    author: "Molina Romero, Caicedo Guerrero, Ostos Triana y Reyes Díaz",
+    rights: "Consulta desde la ficha institucional; se conserva la fuente y la autoría",
+    source: "Editorial AGROSAVIA",
+    keywords: ["costos de producción", "finca", "registros", "tablas", "jóvenes rurales"],
+    url: "https://editorial.agrosavia.co/index.php/publicaciones/catalog/book/143"
   }
 ];
 
