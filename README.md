@@ -14,13 +14,12 @@ Organizar y compartir recursos educativos digitales que fortalezcan la comprensi
 2. Campo y agricultura
 3. Deporte y comunidad
 4. Comprensión e interpretación textual
-5. Producción textual
+5. Producción textual y creaciones estudiantiles
 6. Recursos audiovisuales
-7. Producciones estudiantiles
 
 ## Contenido actual
 
-El catálogo contiene veintiocho recursos: actividades interactivas, guías descargables, obras literarias, infografías, pódcast, artículos, crónicas, series documentales y videos educativos procedentes de fuentes institucionales y bibliotecas digitales verificables.
+El catálogo contiene treinta y tres recursos: actividades interactivas, guías descargables, obras literarias, infografías, pódcast, artículos, crónicas, series documentales y videos educativos procedentes de fuentes institucionales y bibliotecas digitales verificables.
 
 Cada ficha presenta título, descripción, categoría, nivel educativo, tipo, formato, año, autoría, fuente, palabras clave, acceso y condiciones de uso.
 
@@ -40,4 +39,4 @@ Estudiantes y docentes de contextos rurales colombianos.
 
 ## Estado
 
-Prototipo educativo en construcción y actualización.
+Prototipo educativo en construcción y actualización. La categoría de producción reúne guías, modelos y futuras creaciones estudiantiles; estas últimas solo se publicarán con autorización y protección de datos.
