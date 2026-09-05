@@ -1,7 +1,7 @@
 # Catálogo verificado de recursos
 
 **Repositorio:** Lenguaje y territorio  
-**Fecha de verificación:** 4 de septiembre de 2026
+**Fecha de verificación:** 5 de septiembre de 2026
 
 Este registro reúne los recursos visibles en el prototipo. Los enlaces externos dirigen a la plataforma del autor o de la entidad responsable. No se almacenan copias de obras cuando sus condiciones de uso no autorizan expresamente la redistribución.
 
@@ -20,6 +20,15 @@ Este registro reúne los recursos visibles en el prototipo. Los enlaces externos
 | 11 | En la diestra de Dios Padre | Tomás Carrasquilla (1858–1940) | 1897 | Cuento; texto web, EPUB y PDF | Literatura y territorio | Obra original en dominio público; texto de Wikisource bajo CC BY-SA 4.0 | [Abrir recurso](https://es.wikisource.org/wiki/En_la_diestra_de_Dios_Padre) |
 | 12 | La vorágine | José Eustasio Rivera (1888–1928) | 1924 | Novela; texto web | Literatura y territorio | Obra original en dominio público; consulta desde la Biblioteca Virtual Miguel de Cervantes | [Abrir recurso](https://www.cervantesvirtual.com/obra/la-voragine-989351/) |
 | 13 | Los maderos de San Juan | José Asunción Silva (1865–1896) | 1892 | Poema narrativo; texto web, EPUB y PDF | Literatura y territorio | Obra original en dominio público; texto de Wikisource bajo CC BY-SA 4.0 | [Abrir recurso](https://es.wikisource.org/wiki/Los_maderos_de_San_Juan) |
+
+| 14 | Lenguaje 6: guía del estudiante, unidad 2 | MEN, UNCOLI y Universidad Nacional de Colombia | 2021 | Guía para estudiantes; PDF | Comprensión e interpretación textual | Consulta y descarga desde Colombia Aprende | [Descargar PDF](https://www.colombiaaprende.edu.co/sites/default/files/files_public/2021-12/ASF_LEN_EST_G6_B2_PDF_WEB.pdf) |
+| 15 | Lenguaje 7: opinión y argumentación | MEN, UNCOLI y Universidad Nacional de Colombia | 2022 | Guía para estudiantes; PDF | Comprensión e interpretación textual | Consulta y descarga desde Colombia Aprende | [Descargar PDF](https://www.colombiaaprende.edu.co/sites/default/files/files_public/2022-10/Grado_7_%20gu%C3%ADa_estudiantes_LEN_B4IMPRESION-min.pdf) |
+| 16 | Lenguaje 8: guía del estudiante, volumen 2 | MEN, UNCOLI y Universidad Nacional de Colombia | 2021 | Guía para estudiantes; PDF | Comprensión e interpretación textual | Consulta y descarga desde Colombia Aprende | [Descargar PDF](https://www.colombiaaprende.edu.co/sites/default/files/files_public/2021-12/LEN_8_VOL2_EST_WEB_COMPLETO.pdf) |
+| 17 | Lenguaje 9: guía del estudiante, bimestre II | MEN, UNCOLI y Universidad Nacional de Colombia | 2021 | Guía para estudiantes; PDF | Comprensión e interpretación textual | Consulta y descarga desde Colombia Aprende | [Descargar PDF](https://colombiaaprende.edu.co/sites/default/files/files_public/2021-12/LEN_9_B2_EST_WEB_COMPLETO.pdf) |
+| 18 | Relatos en Serie Rural \| 2023 | Canal Trece Colombia | 2023 | Serie documental; lista de reproducción | Recursos audiovisuales | Consulta desde el canal oficial de YouTube | [Abrir serie](https://www.youtube.com/playlist?list=PLGsF4QfCJgJliv_EdhLRRrW4SVNlYdTHd) |
+| 19 | El podcast escolar que nació bajo un árbol y le dio voz al Vichada | Ministerio de Educación Nacional de Colombia | 2025 | Crónica audiovisual; video | Recursos audiovisuales | Consulta desde el canal oficial de YouTube | [Ver video](https://www.youtube.com/watch?v=mOVNCXZE8iA) |
+| 20 | El Campo No Para: Colombia cultivada con alimentos | Unidad de Planificación Rural Agropecuaria (UPRA) | 2026 | Programa informativo; video | Recursos audiovisuales | Consulta desde el canal oficial de YouTube | [Ver video](https://www.youtube.com/watch?v=KDKEHDZHd9Y) |
+| 21 | Arte, tradición y patrimonio | Canal Trece Colombia | s. f. | Cápsula educativa; video | Recursos audiovisuales | Consulta desde el canal oficial de YouTube | [Ver video](https://www.youtube.com/watch?v=t6j5tCOksPI) |
 
 ## Nota sobre literatura de dominio público
 
