@@ -20,7 +20,7 @@ Organizar y compartir recursos educativos digitales que fortalezcan la comprensi
 
 ## Contenido actual
 
-El catálogo contiene ocho recursos: dos actividades elaboradas o adaptadas por el equipo y seis materiales procedentes de Colombia Aprende, AGROSAVIA y Cenicafé.
+El catálogo contiene veintiún recursos: actividades interactivas, guías descargables, obras literarias, infografías, pódcast, series documentales y videos educativos procedentes de fuentes institucionales y bibliotecas digitales verificables.
 
 Cada ficha presenta título, descripción, categoría, nivel educativo, tipo, formato, año, autoría, fuente, palabras clave, acceso y condiciones de uso.
 
