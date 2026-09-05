@@ -8,7 +8,7 @@ Este registro reúne los recursos visibles en el prototipo. Los enlaces externos
 | N.º | Recurso | Autor o entidad responsable | Año | Tipo y formato | Categoría | Acceso y derechos | Enlace original |
 |---:|---|---|---:|---|---|---|---|
 | 1 | Comprensión de inferencias locales y globales | Autoría pendiente de verificación | 2026 | Recurso interactivo en Genially | Comprensión e interpretación textual | Acceso en línea; condiciones indicadas en la plataforma | [Abrir recurso](https://view.genially.com/6a931d45c05b027aa63a6036) |
-| 2 | Los verbos en la vida cotidiana | Autoría pendiente de verificación | 2026 | Actividad interactiva en Wordwall | Producción textual | Acceso en línea; condiciones indicadas en la plataforma | [Abrir recurso](https://wordwall.net/es/resource/118092960?wwmethod=link) |
+| 2 | Los verbos en la vida cotidiana | Autoría pendiente de verificación | 2026 | Actividad interactiva en Wordwall | Producción textual y creaciones estudiantiles | Acceso en línea; condiciones indicadas en la plataforma | [Abrir recurso](https://wordwall.net/es/resource/118092960?wwmethod=link) |
 | 3 | Prácticas agronómicas para el cultivo del café | Centro Nacional de Investigaciones de Café (Cenicafé) | 2024 | Infografía; PDF y visualización web | Campo y agricultura | Creative Commons Atribución-NoComercial-SinDerivadas 4.0 | [Abrir ficha oficial](https://publicaciones.cenicafe.org/index.php/infografias/article/view/2896) |
 | 4 | Guía de aprendizaje para el fortalecimiento del proyecto pedagógico productivo en huerta escolar | Ramos Calderón et al.; AGROSAVIA | 2025 | Libro digital; PDF | Campo y agricultura | Creative Commons Atribución-CompartirIgual 4.0 | [Abrir ficha oficial](https://editorial.agrosavia.co/index.php/publicaciones/catalog/book/516) |
 | 5 | Material de consulta estudiante, Lenguaje 7.º, tercer bimestre | MEN, UNCOLI y Universidad Nacional de Colombia | 2026 | Recurso interactivo y anexo | Comprensión e interpretación textual | Consulta y descarga desde Colombia Aprende | [Abrir recurso](https://www.colombiaaprende.edu.co/recurso-coleccion/material-de-consulta-estudiante-lenguaje-septimo-grado-tercer-bimestre) |
@@ -38,6 +38,12 @@ Este registro reúne los recursos visibles en el prototipo. Los enlaces externos
 | 27 | ¡Jugar para no olvidar! | Ministerio de Educación Nacional de Colombia | 2025 | Crónica institucional; texto web y video | Deporte y comunidad | Consulta desde el portal oficial | [Abrir crónica](https://www.mineducacion.gov.co/portal/salaprensa/Comunicados/425880:Jugar-para-no-olvidar-Gobierno-del-Cambio-fortalece-la-educacion-propia-de-los-pueblos-indigenas-del-Cauca) |
 | 28 | La campeona que convirtió el aula en su nueva pista | Ministerio de Educación Nacional de Colombia | 2025 | Crónica audiovisual; video | Deporte y comunidad | Consulta desde el canal oficial de YouTube | [Ver video](https://www.youtube.com/watch?v=WEHiPT0y4WA) |
 
+| 29 | El huerto escolar como recurso de enseñanza-aprendizaje | Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) | 2009 | Guía pedagógica; PDF | Campo y agricultura | Consulta y descarga desde el portal oficial de la FAO | [Descargar PDF](https://www.fao.org/ag/humannutrition/21877-061e61334701c700e0f53684791ad06ed.pdf) |
+| 30 | Guía de compostaje para agricultores | Pardo Díaz, Suárez Estrada, Camelo Rusinque, Rojas Tapias y Estrada Bonilla; AGROSAVIA | 2024 | Guía práctica; libro digital en PDF | Campo y agricultura | Consulta desde la ficha institucional; se conserva la fuente y la autoría | [Abrir ficha oficial](https://editorial.agrosavia.co/index.php/publicaciones/catalog/book/441) |
+| 31 | Crecimiento verde y agricultura climáticamente inteligente en el cultivo de caña de azúcar para la elaboración de panela | AGROSAVIA | 2023 | Manual técnico; libro digital | Campo y agricultura | Contenido de libre acceso desde la ficha institucional | [Abrir ficha oficial](https://editorial.agrosavia.co/index.php/publicaciones/catalog/book/385) |
+| 32 | Interpretación de resultados de análisis de suelo para cafetales | Siavosh Sadeghian; Cenicafé | 2018 | Avance técnico; texto web, PDF y video | Campo y agricultura | Consulta desde el portal oficial de Cenicafé | [Abrir recurso](https://publicaciones.cenicafe.org/index.php/avances_tecnicos/issue/view/84) |
+| 33 | Guía de registro para costos de producción agrícola | Molina Romero, Caicedo Guerrero, Ostos Triana y Reyes Díaz; AGROSAVIA | 2020 | Guía de registro; libro digital en PDF | Campo y agricultura | Consulta desde la ficha institucional; se conserva la fuente y la autoría | [Abrir ficha oficial](https://editorial.agrosavia.co/index.php/publicaciones/catalog/book/143) |
+
 ## Nota sobre literatura de dominio público
 
 Las obras literarias añadidas pertenecen a autores colombianos fallecidos hace más de ochenta años. Se enlazan desde bibliotecas digitales identificables y no se copian ediciones comerciales modernas. La incorporación conserva la autoría, la fuente y las condiciones informadas por cada portal. Las traducciones, adaptaciones, prólogos e ilustraciones recientes deben verificarse por separado antes de reutilizarse.
@@ -50,6 +56,6 @@ Las obras literarias añadidas pertenecen a autores colombianos fallecidos hace 
 - Autoría, fecha, formato y condiciones de acceso verificables.
 - Posibilidad de consulta mediante enlace público.
 
-## Categoría pendiente
+## Producción textual y creaciones estudiantiles
 
-La categoría **Producciones estudiantiles** se habilitará cuando existan trabajos autorizados para publicación. Antes de incorporarlos se deben proteger los datos personales de los estudiantes y contar con las autorizaciones correspondientes.
+Esta categoría integra dos tipos de contenido: **guías, plantillas y modelos para escribir** y **producciones realizadas por estudiantes**. Las producciones podrán enlazarse desde un Padlet autorizado, pero antes de publicarlas se deben proteger los datos personales y contar con los permisos correspondientes.
