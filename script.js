@@ -502,6 +502,21 @@ const resources = [
     source: "Editorial AGROSAVIA",
     keywords: ["costos de producción", "finca", "registros", "tablas", "jóvenes rurales"],
     url: "https://editorial.agrosavia.co/index.php/publicaciones/catalog/book/143"
+  },
+  {
+    title: "Galería de innovaciones didácticas: experiencias que transforman",
+    description: "Espacio colaborativo para reunir modelos, esquemas de escritura y producciones autorizadas que recuperen experiencias educativas y voces del territorio.",
+    category: "Producción textual y creaciones estudiantiles",
+    type: "Galería colaborativa",
+    level: "Educación básica y media",
+    format: "Padlet",
+    access: "Acceso en línea",
+    year: "2026",
+    author: "Jeffer Durán T. y participantes autorizados",
+    rights: "Publicar únicamente trabajos autorizados y sin datos personales sensibles",
+    source: "Padlet",
+    keywords: ["producción textual", "creaciones estudiantiles", "innovación didáctica", "territorio"],
+    url: "https://padlet.com/jefferduranrock1992/galeria-de-innovaciones-didacticas-experiencias-que-transfor-p79kzehxwzf8offi"
   }
 ];
 
