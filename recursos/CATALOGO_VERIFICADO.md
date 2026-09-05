@@ -44,6 +44,8 @@ Este registro reúne los recursos visibles en el prototipo. Los enlaces externos
 | 32 | Interpretación de resultados de análisis de suelo para cafetales | Siavosh Sadeghian; Cenicafé | 2018 | Avance técnico; texto web, PDF y video | Campo y agricultura | Consulta desde el portal oficial de Cenicafé | [Abrir recurso](https://publicaciones.cenicafe.org/index.php/avances_tecnicos/issue/view/84) |
 | 33 | Guía de registro para costos de producción agrícola | Molina Romero, Caicedo Guerrero, Ostos Triana y Reyes Díaz; AGROSAVIA | 2020 | Guía de registro; libro digital en PDF | Campo y agricultura | Consulta desde la ficha institucional; se conserva la fuente y la autoría | [Abrir ficha oficial](https://editorial.agrosavia.co/index.php/publicaciones/catalog/book/143) |
 
+| 34 | Galería de innovaciones didácticas: experiencias que transforman | Jeffer Durán T. y participantes autorizados | 2026 | Galería colaborativa en Padlet | Producción textual y creaciones estudiantiles | Publicar únicamente trabajos autorizados y sin datos personales sensibles | [Abrir Padlet](https://padlet.com/jefferduranrock1992/galeria-de-innovaciones-didacticas-experiencias-que-transfor-p79kzehxwzf8offi) |
+
 ## Nota sobre literatura de dominio público
 
 Las obras literarias añadidas pertenecen a autores colombianos fallecidos hace más de ochenta años. Se enlazan desde bibliotecas digitales identificables y no se copian ediciones comerciales modernas. La incorporación conserva la autoría, la fuente y las condiciones informadas por cada portal. Las traducciones, adaptaciones, prólogos e ilustraciones recientes deben verificarse por separado antes de reutilizarse.
@@ -58,4 +60,4 @@ Las obras literarias añadidas pertenecen a autores colombianos fallecidos hace 
 
 ## Producción textual y creaciones estudiantiles
 
-Esta categoría integra dos tipos de contenido: **guías, plantillas y modelos para escribir** y **producciones realizadas por estudiantes**. Las producciones podrán enlazarse desde un Padlet autorizado, pero antes de publicarlas se deben proteger los datos personales y contar con los permisos correspondientes.
+Esta categoría integra dos tipos de contenido: **guías, plantillas y modelos para escribir** y **producciones realizadas por estudiantes**. Las producciones se organizan mediante la [Galería de innovaciones didácticas: experiencias que transforman](https://padlet.com/jefferduranrock1992/galeria-de-innovaciones-didacticas-experiencias-que-transfor-p79kzehxwzf8offi). Antes de publicar trabajos estudiantiles se deben proteger los datos personales y contar con los permisos correspondientes.
