@@ -19,7 +19,7 @@ Organizar y compartir recursos educativos digitales que fortalezcan la comprensi
 
 ## Contenido actual
 
-El catálogo contiene treinta y cuatro recursos: actividades interactivas, guías descargables, obras literarias, infografías, pódcast, artículos, crónicas, series documentales y videos educativos procedentes de fuentes institucionales y bibliotecas digitales verificables.
+El catálogo contiene treinta y tres recursos: actividades interactivas, guías descargables, obras literarias, infografías, pódcast, artículos, crónicas, series documentales y videos educativos procedentes de fuentes institucionales y bibliotecas digitales verificables.
 
 Cada ficha presenta título, descripción, categoría, nivel educativo, tipo, formato, año, autoría, fuente, palabras clave, acceso y condiciones de uso.
 
@@ -39,4 +39,4 @@ Estudiantes y docentes de contextos rurales colombianos.
 
 ## Estado
 
-Prototipo educativo en construcción y actualización. La categoría de producción reúne guías, modelos y creaciones estudiantiles mediante una galería colaborativa en Padlet; los trabajos solo se publicarán con autorización y protección de datos.
+Prototipo educativo en construcción y actualización. La categoría de producción reúne guías, modelos y futuras creaciones estudiantiles. El Padlet podrá enlazarse cuando se confirme que su contenido puede hacerse público y que no expone datos personales.
