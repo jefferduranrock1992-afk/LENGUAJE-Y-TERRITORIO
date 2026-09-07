@@ -32,7 +32,7 @@ const resources = [
     format: "Wordwall",
     access: "Acceso en línea",
     year: "2026",
-    author: "Pendiente de verificación",
+    author: "Jefferson Durán Triana — edición y adaptación didáctica",
     rights: "Consultar condiciones en el recurso",
     source: "Wordwall",
     keywords: ["verbos", "oraciones", "vida cotidiana"],
