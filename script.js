@@ -17,7 +17,7 @@ const resources = [
     format: "Genially",
     access: "Acceso en línea",
     year: "2026",
-    author: "Pendiente de verificación",
+    author: "Jefferson Durán Triana y Juan Dario Godoy",
     rights: "Consultar condiciones en el recurso",
     source: "Genially",
     keywords: ["inferencias", "territorio", "lectura"],
